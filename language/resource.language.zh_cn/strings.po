@@ -343,7 +343,7 @@ msgstr "将皮肤设置和主菜单快捷方式备份到zipfile，将设置迁�
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31065"
-msgid "Restore your skin settings, shortcuts, and widgets from a backup file."
+msgid "Restore your skin settings, shortcuts, 和 widgets from a backup file."
 msgstr "从备份文件还原皮肤设置、快捷方式和小组件."
 
 #: /1080i/Includes_Labels.xml
@@ -539,7 +539,7 @@ msgstr "已用内存"
 
 msgctxt "#31105"
 msgid "Spotlight"
-msgstr "聚焦"
+msgstr "精选推荐"
 
 msgctxt "#31106"
 msgid "Ends "
@@ -624,11 +624,11 @@ msgstr "最近几集"
 
 msgctxt "#31126"
 msgid "Episodes Spotlight"
-msgstr "剧集聚焦"
+msgstr "剧集精选推荐"
 
 msgctxt "#31127"
 msgid "Movies Spotlight"
-msgstr "电影聚焦"
+msgstr "电影精选推荐"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31128"
@@ -2128,7 +2128,7 @@ msgstr "分类"
 #: /1080i/SkinSettings.xml
 msgctxt "#31444"
 msgid "Lock Hub Widgets"
-msgstr "锁定中心小组件"
+msgstr "锁定聚合中心小组件"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31445"
@@ -2203,7 +2203,7 @@ msgstr "在小组件启用透明徽标"
 #: /1080i/SkinSettings.xml
 msgctxt "#31459"
 msgid "Enable Low Spotlight Info"
-msgstr "启用精简焦点信息"
+msgstr "启用精简精选推荐信息"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31461"
@@ -2218,12 +2218,12 @@ msgstr "禁用主菜单标签"
 #: /1080i/SkinSettings.xml
 msgctxt "#31463"
 msgid "Menu Hubs"
-msgstr "菜单中心"
+msgstr "菜单聚合中心"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31464"
 msgid "Media Hubs"
-msgstr "媒体中心"
+msgstr "媒体聚合中心"
 
 #: /1080i/Includes_View_List.xml
 msgctxt "#31465"
@@ -2418,7 +2418,7 @@ msgstr "媒体库视图"
 #: /1080i/SkinSettings.xml
 msgctxt "#31503"
 msgid "Hubs & Spotlight"
-msgstr "内容中心与焦点推荐"
+msgstr "聚合中心与精彩推荐"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31504"
@@ -2463,32 +2463,32 @@ msgstr "使用单色评分图标"
 #: /1080i/SkinSettings.xml
 msgctxt "#31512"
 msgid "Configure TV Hubs"
-msgstr "配置电视剧中心"
+msgstr "配置电视剧聚合中心"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31513"
 msgid "Configure Movie Hubs"
-msgstr "配置电影中心"
+msgstr "配置电影聚合中心"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31514"
 msgid "Spotlight Widgets"
-msgstr "焦点推荐小组件"
+msgstr "精选推荐小组件"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31515"
 msgid "Enable Spotlights"
-msgstr "启用焦点推荐"
+msgstr "启用精选推荐"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31516"
 msgid "Choose Movie Spotlight Style"
-msgstr "选择电影焦点样式"
+msgstr "选择电影精选推荐样式"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31517"
 msgid "Choose Movies Spotlight"
-msgstr "选择电影焦点内容"
+msgstr "选择电影精选推荐"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31518"
@@ -2498,12 +2498,12 @@ msgstr "配置自定义电影列表"
 #: /1080i/SkinSettings.xml
 msgctxt "#31519"
 msgid "Choose TV Spotlight Style"
-msgstr "选择电视剧焦点样式"
+msgstr "选择电视剧精选推荐样式"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31520"
 msgid "Choose TV Shows Spotlight"
-msgstr "选择电视剧焦点内容"
+msgstr "选择电视剧精选推荐"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31521"
@@ -2513,7 +2513,7 @@ msgstr "配置自定义电视剧列表"
 #: /1080i/SkinSettings.xml
 msgctxt "#31522"
 msgid "Configure LiveTV Spotlight"
-msgstr "配置直播电视焦点"
+msgstr "配置直播电视精选推荐"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31523"
@@ -2533,7 +2533,7 @@ msgstr "使用默认键盘"
 #: /1080i/SkinSettings.xml
 msgctxt "#31526"
 msgid "Enable MainMenu on Hubs"
-msgstr "在内容中心启用主菜单"
+msgstr "在内容聚合中心启用主菜单"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31527"
@@ -2558,7 +2558,7 @@ msgstr "配置电影列表1"
 #: /1080i/SkinSettings.xml
 msgctxt "#31531"
 msgid "Enable AuraHub style"
-msgstr "启用Aura中心样式"
+msgstr "启用Aura聚合中心样式"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31532"
@@ -2658,12 +2658,12 @@ msgstr "下方向键启动展示视图预告片"
 #: /1080i/SkinSettings.xml
 msgctxt "#31551"
 msgid "Show full Spotlight info for Episodes"
-msgstr "显示剧集完整焦点信息"
+msgstr "显示剧集完整精选推荐信息"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31552"
 msgid "Disable Spotlight Trailer auto-play"
-msgstr "禁用焦点推荐自动播放预告片"
+msgstr "禁用精选推荐自动播放预告片"
  
 #: /1080i/SkinSettings.xml
 msgctxt "#31553"
@@ -2828,17 +2828,17 @@ msgstr "配置TMDBHelper API接口"
 #: /1080i/Custom_1126_MovieHub_config.xml
 msgctxt "#31585"
 msgid "Movie Hub Configuration"
-msgstr "电影中心配置"
+msgstr "电影聚合中心配置"
  
 #: /1080i/Custom_1126_MovieHub_config.xml
 msgctxt "#31586"
 msgid "Movie Lists Hub Items"
-msgstr "电影列表中心项目"
+msgstr "电影列表聚合中心项目"
  
 #: /1080i/Custom_1126_MovieHub_config.xml
 msgctxt "#31587"
 msgid "Movie Aura Hub Items"
-msgstr "电影Aura中心项目"
+msgstr "电影Aura聚合中心项目"
  
 #: /1080i/Custom_1126_MovieHub_config.xml
 msgctxt "#31588"
@@ -2848,57 +2848,57 @@ msgstr "启用紧凑小组件间距"
 #: /1080i/Custom_1126_MovieHub_config.xml
 msgctxt "#31589"
 msgid "Movie Netflix Hub Items"
-msgstr "电影Netflix中心项目"
+msgstr "电影Netflix聚合中心项目"
  
 #: /1080i/Custom_1126_MovieHub_config.xml
 msgctxt "#31590"
 msgid "Movie Genre Hub Items"
-msgstr "电影类型中心项目"
+msgstr "电影类型聚合中心项目"
  
 #: /1080i/Custom_1127_TVHub_config.xml
 msgctxt "#31591"
 msgid "TV Hub Configuration"
-msgstr "电视剧中心配置"
+msgstr "电视剧聚合中心配置"
  
 #: /1080i/Custom_1127_TVHub_config.xml
 msgctxt "#31592"
 msgid "TV Lists Hub Items"
-msgstr "电视剧列表中心项目"
+msgstr "电视剧列表聚合中心项目"
  
 #: /1080i/Custom_1127_TVHub_config.xml
 msgctxt "#31593"
 msgid "TV Aura Hub Items"
-msgstr "电视剧Aura中心项目"
+msgstr "电视剧Aura聚合中心项目"
  
 #: /1080i/Custom_1127_TVHub_config.xml
 msgctxt "#31594"
 msgid "TV Netflix Hub Items"
-msgstr "电视剧Netflix中心项目"
+msgstr "电视剧Netflix聚合中心项目"
  
 #: /1080i/Custom_1127_TVHub_config.xml
 msgctxt "#31595"
 msgid "TV Genre Hub Items"
-msgstr "电视剧类型中心项目"
+msgstr "电视剧类型聚合中心项目"
  
 #: /1080i/Custom_1127_TVHub_config.xml
 msgctxt "#31596"
 msgid "TV Networks Hub Items"
-msgstr "电视网络中心项目"
+msgstr "电视网络聚合中心项目"
  
 #: /1080i/Custom_1128_Spotlight_config.xml
 msgctxt "#31597"
 msgid "Home Spotlight Config"
-msgstr "主页焦点推荐配置"
+msgstr "主页精选推荐配置"
  
 #: /1080i/Custom_1128_Spotlight_config.xml
 msgctxt "#31598"
 msgid "Enable Spotlights"
-msgstr "启用焦点推荐"
+msgstr "启用精选推荐"
  
 #: /1080i/Custom_1128_Spotlight_config.xml
 msgctxt "#31599"
 msgid "Choose Movie Spotlight Style"
-msgstr "选择电影焦点样式"
+msgstr "选择电影精选推荐样式"
  
 #: /1080i/Custom_1128_Spotlight_config.xml
 msgctxt "#31600"
@@ -2913,7 +2913,7 @@ msgstr "配置自定义电影列表"
 #: /1080i/Custom_1128_Spotlight_config.xml
 msgctxt "#31602"
 msgid "Choose TV Spotlight Style"
-msgstr "选择电视剧焦点样式"
+msgstr "选择电视剧精选推荐样式"
  
 #: /1080i/Custom_1128_Spotlight_config.xml
 msgctxt "#31603"
@@ -2928,12 +2928,12 @@ msgstr "配置自定义电视剧列表"
 #: /1080i/Custom_1128_Spotlight_config.xml
 msgctxt "#31605"
 msgid "Spotlight Random Sorting"
-msgstr "焦点推荐随机排序"
+msgstr "精选推荐随机排序"
  
 #: /1080i/Custom_1128_Spotlight_config.xml
 msgctxt "#31606"
 msgid "Configure LiveTV Spotlight"
-msgstr "配置直播电视焦点"
+msgstr "配置直播电视精选推荐"
  
 #: /1080i/Custom_1130_ShowInfo.xml
 msgctxt "#31607"
@@ -2958,12 +2958,12 @@ msgstr "剧集"
 #: /1080i/Custom_1132_SpotlightStyle.xml
 msgctxt "#31611"
 msgid "Spotlight Style"
-msgstr "焦点推荐样式"
+msgstr "精选推荐样式"
  
 #: /1080i/Custom_1132_SpotlightStyle.xml
 msgctxt "#31612"
 msgid "Enable Fullscreen Spotlight"
-msgstr "启用全屏焦点推荐"
+msgstr "启用全屏精选推荐"
  
 #: /1080i/Custom_1132_SpotlightStyle.xml
 msgctxt "#31613"
@@ -2973,12 +2973,12 @@ msgstr "禁用焦点推荐自动播放预告片"
 #: /1080i/Custom_1132_SpotlightStyle.xml
 msgctxt "#31614"
 msgid "Enable Widget Spotlight"
-msgstr "启用小组件焦点推荐"
+msgstr "启用小组件精选推荐"
  
 #: /1080i/Custom_1132_SpotlightStyle.xml
 msgctxt "#31615"
 msgid "Enable Multi Widget Spotlight"
-msgstr "启用多重小组件焦点推荐"
+msgstr "启用多重小组件精选推荐"
  
 #: /1080i/Custom_1134_TMDB_Info.xml
 msgctxt "#31616"
@@ -3093,7 +3093,7 @@ msgstr "发现电影"
 #: /1080i/Custom_1160_Spotlight_TV_List.xml
 msgctxt "#31638"
 msgid "Spotlight TV Lists"
-msgstr "电视剧焦点列表"
+msgstr "电视剧精选推荐列表"
  
 #: /1080i/Custom_1160_Spotlight_TV_List.xml
 msgctxt "#31639"
@@ -3138,7 +3138,7 @@ msgstr "电影列表4"
 #: /1080i/Custom_1163_SearchConfig.xml
 msgctxt "#31647"
 msgid "Search Hub Configuration"
-msgstr "搜索中心配置"
+msgstr "搜索聚合中心配置"
  
 #: /1080i/Custom_1163_SearchConfig.xml
 msgctxt "#31648"
@@ -3208,17 +3208,17 @@ msgstr "配置直播电视列表2"
 #: /1080i/Custom_1164_MyLists.xml
 msgctxt "#31661"
 msgid "Use AuraMod style for Menu Hub"
-msgstr "为菜单中心使用AuraMod样式"
+msgstr "为菜单聚合中心使用AuraMod样式"
  
 #: /1080i/Custom_Hub_MovieAura.xml
 msgctxt "#31662"
 msgid "Movie AuraHub"
-msgstr "电影Aura中心"
+msgstr "电影Aura聚合中心"
  
 #: /1080i/Custom_Hub_MovieAura.xml
 msgctxt "#31663"
 msgid "Hub is Empty - Click to Add Items"
-msgstr "内容中心为空 - 点击添加项目"
+msgstr "内容聚合中心为空 - 点击添加项目"
  
 #: /1080i/Custom_Hub_MoviesGenres.xml
 msgctxt "#31665"
@@ -3228,7 +3228,7 @@ msgstr "类型"
 #: /1080i/Custom_Hub_MoviesGenres.xml
 msgctxt "#31666"
 msgid "TV AuraHub"
-msgstr "电视剧Aura中心"
+msgstr "电视剧Aura聚合中心"
  
 #: /1080i/Custom_MenuHub_Movie2.xml
 msgctxt "#31670"
@@ -3238,7 +3238,7 @@ msgstr "分类"
 #: /1080i/Custom_Hub_TVGenres.xml
 msgctxt "#31671"
 msgid "Hub Empty - Choose Items"
-msgstr "内容中心为空 - 选择项目"
+msgstr "内容聚合中心为空 - 选择项目"
  
 #: /1080i/Custom_MenuHub_TVNetworks.xml
 msgctxt "#31674"
@@ -3258,7 +3258,7 @@ msgstr "手动设置"
 #: /1080i/Custom_Setup.xml
 msgctxt "#31677"
 msgid "Configure Hubs & Spotlights"
-msgstr "配置内容中心与焦点推荐"
+msgstr "配置内容聚合中心与焦点推荐"
  
 #: /1080i/Custom_Setup.xml
 msgctxt "#31678"
@@ -3288,12 +3288,12 @@ msgstr "主菜单配置"
 #: /1080i/DialogButtonMenu-Includes.xml
 msgctxt "#31683"
 msgid "TV Hubs Config"
-msgstr "电视剧中心配置"
+msgstr "电视剧聚合中心配置"
  
 #: /1080i/DialogButtonMenu-Includes.xml
 msgctxt "#31684"
 msgid "Movie Hubs Config"
-msgstr "电影中心配置"
+msgstr "电影聚合中心配置"
  
 #: /1080i/DialogButtonMenu-Includes.xml
 msgctxt "#31685"
@@ -3528,17 +3528,17 @@ msgstr "菜单与小组件"
 #: /1080i/Includes_Object.xml
 msgctxt "#31731"
 msgid "TV Hubs"
-msgstr "电视剧中心"
+msgstr "电视剧聚合中心"
 
 #: /1080i/Includes_Object.xml
 msgctxt "#31732"
 msgid "Movie Hubs"
-msgstr "电影中心"
+msgstr "电影聚合中心"
 
 #: /1080i/Includes_Object.xml
 msgctxt "#31733"
 msgid "Home Spotlights"
-msgstr "主页焦点推荐"
+msgstr "主页精选推荐"
 
 #: /1080i/Includes_Object.xml
 msgctxt "#31734"
@@ -3713,22 +3713,22 @@ msgstr "启用Netflix风格"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31768"
 msgid "Enable Spotlight"
-msgstr "启用焦点推荐"
+msgstr "启用精选推荐"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31769"
 msgid "Choose Spotlight"
-msgstr "选择焦点内容"
+msgstr "选择精选推荐"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31770"
 msgid "Enable Autoscroll to Hub"
-msgstr "启用自动滚动至内容中心"
+msgstr "启用自动滚动至内容聚合中心"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31771"
 msgid "Choose Autoscroll Hub"
-msgstr "选择自动滚动目标中心"
+msgstr "选择自动滚动目标聚合中心"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31772"
@@ -3768,7 +3768,7 @@ msgstr "启用展示自动隐藏"
 #: /1080i/Custom_1161_Spotlight_Movie_List.xml
 msgctxt "#31779"
 msgid "Spotlight Movie Lists"
-msgstr "电影焦点列表"
+msgstr "电影精选推荐列表"
 
 #: /1080i/DialogVideoInfo-Includes.xml
 msgctxt "#31780"
@@ -3823,7 +3823,7 @@ msgstr "播出日期"
 #: /1080i/Includes_Object.xml
 msgctxt "#31790"
 msgid "AuraHub"
-msgstr "Aura中心"
+msgstr "Aura聚合中心"
 
 #: /1080i/Includes_View_Posters.xml
 msgctxt "#31791"
@@ -3888,12 +3888,12 @@ msgstr "电影分类"
 #: /shortcuts/moviehubmenu.DATA.xml
 msgctxt "#31803"
 msgid "Movie Aura Hub"
-msgstr "电影Aura中心"
+msgstr "电影Aura聚合中心"
 
 #: /shortcuts/moviehubmenu.DATA.xml
 msgctxt "#31804"
 msgid "Movie Netflix Hub"
-msgstr "电影Netflix中心"
+msgstr "电影Netflix聚合中心"
 
 #: /shortcuts/movies.DATA.xml
 msgctxt "#31805"
@@ -3903,7 +3903,7 @@ msgstr "电影列表"
 #: /shortcuts/movies.DATA.xml
 msgctxt "#31806"
 msgid "Genres Hub"
-msgstr "类型中心"
+msgstr "类型聚合中心"
 
 #: /shortcuts/searchmenus.DATA.xml
 msgctxt "#31807"
@@ -4003,12 +4003,12 @@ msgstr "电视剧分类"
 #: /shortcuts/tvhubmenu.DATA.xml
 msgctxt "#31827"
 msgid "TV Aura Hub"
-msgstr "电视剧Aura中心"
+msgstr "电视剧Aura聚合中心"
 
 #: /shortcuts/tvhubmenu.DATA.xml
 msgctxt "#31828"
 msgid "TV Netflix Hub"
-msgstr "电视剧Netflix中心"
+msgstr "电视剧Netflix聚合中心"
 
 #: /shortcuts/tvshows.DATA.xml
 msgctxt "#31829"
@@ -4018,7 +4018,7 @@ msgstr "电视剧列表"
 #: /shortcuts/x1101.DATA.xml
 msgctxt "#31830"
 msgid "Media Hub"
-msgstr "媒体中心"
+msgstr "媒体聚合中心"
 
 #: /shortcuts/x1101.DATA.xml
 msgctxt "#31831"
@@ -4325,7 +4325,7 @@ msgstr "剧集"
 #: /shortcuts/overrides.xml
 msgctxt "#31885"
 msgid "Hubs"
-msgstr "内容中心"
+msgstr "内容聚合中心"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31886"
@@ -4335,52 +4335,52 @@ msgstr "设置向导"
 #: /shortcuts/overrides.xml
 msgctxt "#31887"
 msgid "Movie Categories Hub"
-msgstr "电影分类中心"
+msgstr "电影分类聚合中心"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31888"
 msgid "Movie Genres Hub"
-msgstr "电影类型中心"
+msgstr "电影类型聚合中心"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31889"
 msgid "TV Categories Hub"
-msgstr "电视剧分类中心"
+msgstr "电视剧分类聚合中心"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31890"
 msgid "TV Genres Hub"
-msgstr "电视剧类型中心"
+msgstr "电视剧类型聚合中心"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31891"
 msgid "TV Networks Hub"
-msgstr "电视频道中心"
+msgstr "电视频道聚合中心"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31892"
 msgid "Movie Lists Hub 1"
-msgstr "电影列表中心1"
+msgstr "电影列表聚合中心1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31893"
 msgid "TV Lists Hub 1"
-msgstr "电视剧列表中心1"
+msgstr "电视剧列表聚合中心1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31894"
 msgid "My Lists Hub 1"
-msgstr "我的列表中心1"
+msgstr "我的列表聚合中心1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31895"
 msgid "My Lists Hub 2"
-msgstr "我的列表中心2"
+msgstr "我的列表聚合中心2"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31896"
 msgid "My Lists Hub 3"
-msgstr "我的列表中心3"
+msgstr "我的列表聚合中心3"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31897"
@@ -4500,12 +4500,12 @@ msgstr "根据您的观看记录"
 #: /shortcuts/overrides.xml
 msgctxt "#31920"
 msgid "Spotlight Movies"
-msgstr "电影焦点推荐"
+msgstr "电影精选推荐"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31921"
 msgid "Spotlight TV"
-msgstr "电视剧焦点推荐"
+msgstr "电视剧精选推荐"
 
 #: /1080i/Custom_1158_VideoInfo.xml
 msgctxt "#31922"
