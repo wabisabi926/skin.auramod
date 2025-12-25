@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+主页界面# Kodi Media Center language file
 # Addon Name: Horizon
 # Addon id: skin.horizon
 # Addon Provider: jurialmunkey
@@ -124,7 +124,7 @@ msgstr "分钟"
 #: /1080i/SkinSettings.xml
 msgctxt "#31021"
 msgid "Colors"
-msgstr "颜色"
+msgstr "彩色"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31022"
@@ -2107,7 +2107,7 @@ msgstr "启用菜单背景图片"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31440"
-msgid "Netflix Mixed Home Layout"
+msgid "Netflix Mixed 主页 Layout"
 msgstr "Netflix混合主页布局"
 
 #: /1080i/SkinSettings.xml
